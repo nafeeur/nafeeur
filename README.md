@@ -87,9 +87,7 @@ These are my latest posts on [Nafeeur's Blog](https://nafeeur.com) :
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github.com/nafeeur">
-<img align="center" alt="Nafeeur's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nafeeur&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/nafeeur">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nafeeur&layout=compact&theme=radical" />
 </a>
 
 ---
