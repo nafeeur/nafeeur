@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on a Web-Project!
 - 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking for a Summer 2022 Internship
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👀 I’m currently looking for a Summer 2022 Internship
+- 🥅 2022 Goals: Contribute more to Open Source projects 
 
 ### Connect with me:
 
@@ -86,9 +86,7 @@ These are my latest posts on [Nafeeur's Blog](https://nafeeur.com) :
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-<a href="https://github.com/nafeeur">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nafeeur&layout=compact&theme=radical" />
-</a>
+![Nafeeur's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafeeur&count_private=true)
 
 ---
 
