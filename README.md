@@ -84,7 +84,7 @@ These are my latest posts on [Nafeeur's Blog](https://nafeeur.com) :
 
 ---
 
-![Nafeeur's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafeeur&count_private=true)
+![Nafeeur's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafeeur&count_private=true&theme=tokyonight)
 
 ---
 
