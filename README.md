@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Nafeeur 👋
 
-## I'm a Student, Undergraduate, Developer, and P!
+## I'm a CS Undergrad @ City University if New York!
 
-- 🔭 I’m currently working on a my final year project!
+- 🔭 I’m currently working on a Web-Project!
 - 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking for a Summer 2022 Internship
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
