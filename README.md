@@ -3,7 +3,7 @@
 ## I'm a CS Undergrad @ City University of New York!
 
 - 🔭 I’m currently working on a Web-Project
-- 🌱 I’m currently learning Fullstack and Machine Learning
+- 🌱 I’m currently learning Fullstack and Rust
 - 👀 I’m currently looking for a Summer 2022 Internship
 - 🥅 2022 Goals: Contribute more to Open Source projects 
 
