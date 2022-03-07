@@ -7,7 +7,7 @@
 - 👀 Looking for a Summer 2022 Internship
 - 🥅 2022 Goals: Contribute to Open Source projects 
 
-![pixels-neon](https://user-images.githubusercontent.com/67729867/150383894-3a0c0c37-bd1b-4c0a-9c83-f69890e7c72a.gif)
+![machine-anime](https://user-images.githubusercontent.com/67729867/156955931-d00a8a22-a047-4fda-ac4e-82c2cec2b94c.gif)
 
 ### Connect with me:
 
@@ -15,6 +15,7 @@
 [<img align="left" alt="Nafeeur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
 
 ---
 
