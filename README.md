@@ -4,7 +4,7 @@
 
 - 🔭 Working on a Web-Project
 - 🌱 Learning Fullstack and Rust
-- 👀 Looking for a Summer 2022 Internship
+~~ 👀 Looking for a Summer 2022 Internship ~~
 - 🥅 2022 Goals: Contribute to Open Source projects 
 
 ![machine-anime](https://user-images.githubusercontent.com/67729867/156955931-d00a8a22-a047-4fda-ac4e-82c2cec2b94c.gif)
