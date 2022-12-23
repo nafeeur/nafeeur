@@ -4,7 +4,8 @@
 <a href="link" style="text-align: left">
 <img src="https://user-images.githubusercontent.com/67729867/209409967-41834d15-ac33-4f3f-bf2b-413cfbcd19bf.gif" align="right"></a>
 </div>
-![](https://komarev.com/ghpvc/?username=nafeeur)
+
+![f](https://komarev.com/ghpvc/?username=nafeeur)
 
 - <h3> 🔭 I’m currently working on my portfolio </h3> 
 
