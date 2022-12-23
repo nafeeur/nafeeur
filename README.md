@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nafeeur </h1>
 <h2 align="center">CS & Philosophy Student @ CUNY</h2>
 
+![](https://komarev.com/ghpvc/?username=nafeeur)
+
 - <h3> 🔭 I’m currently working on my portfolio </h3>
 
 - <h3> 📄 I'm looking for a Full-time opportunity </h3>
