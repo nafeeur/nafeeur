@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nafeeur </h1>
 <h1 align="center">CS & Philosophy Student @ CUNY</h1>
 
-![pfp](https://user-images.githubusercontent.com/67729867/209409967-41834d15-ac33-4f3f-bf2b-413cfbcd19bf.gif)
+<a href="link" style="text-align: center">
+<img src="https://user-images.githubusercontent.com/67729867/209409967-41834d15-ac33-4f3f-bf2b-413cfbcd19bf.gif" align="center"></a>
 
 ![](https://komarev.com/ghpvc/?username=nafeeur)
 
