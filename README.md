@@ -3,11 +3,11 @@
 
 - <h4> 🔭 I’m currently working on [My Protfolio](https://nafeeur.com) </h4>
 
-- <h4> 📄 I'm looking for a <h3>Full-time opportunity/<h3> </h4>
+- <h4> 📄 I'm looking for a Full-time opportunity </h4>
 
 - <h4> 🌱 I’m currently learning [PHP/Laravel](https://laravel.com/) </h4>
 
-- <h4> 📫 How to reach me <h3>rnafeeur@gmail.com<h3> </h4>
+- <h4> 📫 How to reach me rnafeeur@gmail.com </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
