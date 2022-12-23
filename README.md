@@ -9,12 +9,9 @@
 
 ![machine-anime](https://user-images.githubusercontent.com/67729867/156955931-d00a8a22-a047-4fda-ac4e-82c2cec2b94c.gif)
 
-### Connect with me:
-
-[<img align="left" alt="Nafeeur" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Nafeeur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/tamaya-sara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tamaya-sara" height="30" width="40" /></a>
 
 ---
 
