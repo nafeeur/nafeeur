@@ -1,15 +1,15 @@
-<div> <h1 align="center">Hi 👋, I'm Nafeeur  </h1> <img src="https://user-images.githubusercontent.com/67729867/209409967-41834d15-ac33-4f3f-bf2b-413cfbcd19bf.gif" align="right"/> </div>
+ <h1 align="center">Hi 👋, I'm Nafeeur  </h1> 
 <h1 align="right">CS & Philosophy Student @ CUNY</h1>
 
 ![f](https://komarev.com/ghpvc/?username=nafeeur)
 
-- <h3> 🔭 I’m currently working on my portfolio </h3> 
+- <h3 align="center"> 🔭 I’m currently working on my portfolio </h3> 
 
-- <h3> 📄 I'm looking for a Full-time opportunity </h3>
+- <h3 align="center"> 📄 I'm looking for a Full-time opportunity </h3>
 
-- <h3> 🌱 I’m currently learning Php/Laravel </h3>
+- <h3 align="center"> 🌱 I’m currently learning Php/Laravel </h3>
 
-- <h3> 📫 How to reach me rnafeeur@gmail.com </h3>
+- <h3 align="center"> 📫 How to reach me rnafeeur@gmail.com </h3>
   
 ![pfp](https://user-images.githubusercontent.com/67729867/209400595-1f78f2fc-9347-4a6f-b3b3-98400be8a3b8.gif)
 
