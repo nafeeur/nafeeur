@@ -26,5 +26,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafeeur&show_icons=true&theme=radical)
 
 
-<img src="https://user-images.githubusercontent.com/67729867/209409967-41834d15-ac33-4f3f-bf2b-413cfbcd19bf.gif" align="right"></a>
+<img src="https://user-images.githubusercontent.com/67729867/209409967-41834d15-ac33-4f3f-bf2b-413cfbcd19bf.gif" align="right" width="40" 
+     height="80/>
 
