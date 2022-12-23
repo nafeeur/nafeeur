@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nafeeur </h1>
 <h2 align="center">CS & Philosophy Student @ CUNY</h2>
 
-- <h4> 🔭 I’m currently working on [My Protfolio](https://nafeeur.com) </h4>
+- <h4> 🔭 I’m currently working on my portfolio </h4>
 
 - <h4> 📄 I'm looking for a Full-time opportunity </h4>
 
-- <h4> 🌱 I’m currently learning [PHP/Laravel](https://laravel.com/) </h4>
+- <h4> 🌱 I’m currently learning Php/Laravel </h4>
 
 - <h4> 📫 How to reach me rnafeeur@gmail.com </h4>
 
