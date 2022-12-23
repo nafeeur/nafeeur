@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nafeeur Rahman</h1>
-<h3 align="center">CS & Philosophy Student @ CUNY</h3>
+<h1 align="center">Hi 👋, I'm Nafeeur </h1>
+<h2 align="center">CS & Philosophy Student @ CUNY</h2>
 
 - <h4> 🔭 I’m currently working on [My Protfolio](https://nafeeur.com) </h4>
 
