@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nafeeur  </h1> 
 <h1 align="center">CS & Philosophy Student @ CUNY</h1>
   
-![pfp](https://user-images.githubusercontent.com/67729867/209400595-1f78f2fc-9347-4a6f-b3b3-98400be8a3b8.gif)
-
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/nafeeur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafeeur" height="30" width="40" /></a>
