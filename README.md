@@ -1,3 +1,3 @@
-<div style="text-align: center;">
-  <img width="500" height="480" alt="mam" src="https://github.com/user-attachments/assets/08b1501b-8dee-47eb-a521-72f818cd62c4" />
-</div>
+<p align="center">
+  <img width="500" height="269" alt="mm" src="https://github.com/user-attachments/assets/0e819acb-566a-4df0-b17c-fdc533ec35d3" />
+</p>
